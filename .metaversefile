@@ -1,5 +1,6 @@
 {
   "name": "boat",
+  "description": "motor-boat",
   "start_url": "untitled.glb",
   "components": [
     {
